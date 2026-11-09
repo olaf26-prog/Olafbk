@@ -1,0 +1,99 @@
+
+
+body{
+    margin: 0%;
+}
+
+h1 {
+
+color: #6F4E37;
+
+font-family: Tahoma; 
+
+
+font-size:300%;
+
+text-align: center;
+
+}
+
+body{
+    background-color: beige;
+}
+
+p{
+    color: #6F4E37;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+}
+
+img{
+
+text-align: center;
+margin: 0, auto;
+
+}
+
+.img{
+    display: flex;
+    justify-content:center;
+    
+}
+
+h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: rgba(245, 245, 235,)
+    
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #6F4E37;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5c3920;
+}
+
+
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  background-color: #5c3920;
+  display: flex;
+ 
+}
+
+ul li a {
+  display:block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: larger;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  
+
+}
+
+ul li a:hover {
+  background-color: #6F4E37;
+}
+
